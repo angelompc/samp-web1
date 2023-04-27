@@ -1,10 +1,8 @@
 # SA-MP Web #1
-Pagina web para SA-MP Roleplay (Liberada y Hecha por mi "angelopwn")
+Pagina web para SA-MP Roleplay (Liberada y Hecha por mi)
 
-Sitio web de Prueba: https://angelopwn.github.io/samp-web1/
+Sitio web de Prueba: [Ir a pagina](https://angelompc.github.io/samp-web1/)
 
-* Contacto
+> Contacto:
 
-Me puedes encontrar en el Discord Oficial de Samp Academy: https://discord.gg/wggXNQC8gC
-
-Cuenta Personal: Angelo#5329
+**Discord:** ! Angelo#2956
